@@ -34,22 +34,22 @@
     padding-top: 4rem;
 } */
 #about{
-	background-color:#00ffff;
+	background-color:#2F4F4Ff;
 }
 #services{
-	background-color: #00ffff;
+	background-color: #2F4F4F;
 }
 #portfolio{
-	background-color: #00ffff;
+	background-color: #2F4F4F;
 }
 #contact {
     padding-bottom: 4rem;
-	background-color:#00ffff;
+	background-color:#2F4F4F;
 }
 /* about section image css */
 .imageAboutPage {
     width: 100%;
-	background-color:#00ffff;
+	background-color:#2F4F4F;
 }
 
 /* services section css */
