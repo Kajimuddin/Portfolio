@@ -37,19 +37,19 @@
 	background-color:#ADD8E6;
 }
 #services{
-	background-color: #2F4F4F;
+	background-color: #ADD8E6;
 }
 #portfolio{
-	background-color: #2F4F4F;
+	background-color: #ADD8E6;
 }
 #contact {
     padding-bottom: 4rem;
-	background-color:#2F4F4F;
+	background-color:#ADD8E6;
 }
 /* about section image css */
 .imageAboutPage {
     width: 100%;
-	background-color:#2F4F4F;
+	background-color:#ADD8E6;
 }
 
 /* services section css */
